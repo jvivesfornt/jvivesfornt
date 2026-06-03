@@ -1,10 +1,6 @@
 # Informació diversa
 
 
-**jvivesfornt/jvivesfornt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - Aquí hi podríem explicar coses que trobem d'interès que la gent sàpiga. 
 - Probablement això vol dir que en seran poques de coses d'aquesta mena.
 
